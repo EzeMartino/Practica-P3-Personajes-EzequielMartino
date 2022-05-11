@@ -1,0 +1,62 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Repositorios\\ProgIII\\Practica-P3-Personajes-EzequielMartino\\OOP-Personaje\\OOP-Personaje.csproj": {}
+  },
+  "projects": {
+    "C:\\Repositorios\\ProgIII\\Practica-P3-Personajes-EzequielMartino\\OOP-Personaje\\OOP-Personaje.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Repositorios\\ProgIII\\Practica-P3-Personajes-EzequielMartino\\OOP-Personaje\\OOP-Personaje.csproj",
+        "projectName": "OOP-Personaje",
+        "projectPath": "C:\\Repositorios\\ProgIII\\Practica-P3-Personajes-EzequielMartino\\OOP-Personaje\\OOP-Personaje.csproj",
+        "packagesPath": "C:\\Users\\ezeqf\\.nuget\\packages\\",
+        "outputPath": "C:\\Repositorios\\ProgIII\\Practica-P3-Personajes-EzequielMartino\\OOP-Personaje\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ezeqf\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

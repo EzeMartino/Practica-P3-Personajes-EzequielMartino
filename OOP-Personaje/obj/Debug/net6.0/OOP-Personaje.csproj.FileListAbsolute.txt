@@ -1,0 +1,15 @@
+C:\Repositorios\ProgIII\Practica2-POO\OOP-Personaje\bin\Debug\net6.0\OOP-Personaje.exe
+C:\Repositorios\ProgIII\Practica2-POO\OOP-Personaje\bin\Debug\net6.0\OOP-Personaje.deps.json
+C:\Repositorios\ProgIII\Practica2-POO\OOP-Personaje\bin\Debug\net6.0\OOP-Personaje.runtimeconfig.json
+C:\Repositorios\ProgIII\Practica2-POO\OOP-Personaje\bin\Debug\net6.0\OOP-Personaje.dll
+C:\Repositorios\ProgIII\Practica2-POO\OOP-Personaje\bin\Debug\net6.0\OOP-Personaje.pdb
+C:\Repositorios\ProgIII\Practica2-POO\OOP-Personaje\obj\Debug\net6.0\OOP-Personaje.csproj.AssemblyReference.cache
+C:\Repositorios\ProgIII\Practica2-POO\OOP-Personaje\obj\Debug\net6.0\OOP-Personaje.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repositorios\ProgIII\Practica2-POO\OOP-Personaje\obj\Debug\net6.0\OOP-Personaje.AssemblyInfoInputs.cache
+C:\Repositorios\ProgIII\Practica2-POO\OOP-Personaje\obj\Debug\net6.0\OOP-Personaje.AssemblyInfo.cs
+C:\Repositorios\ProgIII\Practica2-POO\OOP-Personaje\obj\Debug\net6.0\OOP-Personaje.csproj.CoreCompileInputs.cache
+C:\Repositorios\ProgIII\Practica2-POO\OOP-Personaje\obj\Debug\net6.0\OOP-Personaje.dll
+C:\Repositorios\ProgIII\Practica2-POO\OOP-Personaje\obj\Debug\net6.0\refint\OOP-Personaje.dll
+C:\Repositorios\ProgIII\Practica2-POO\OOP-Personaje\obj\Debug\net6.0\OOP-Personaje.pdb
+C:\Repositorios\ProgIII\Practica2-POO\OOP-Personaje\obj\Debug\net6.0\OOP-Personaje.genruntimeconfig.cache
+C:\Repositorios\ProgIII\Practica2-POO\OOP-Personaje\obj\Debug\net6.0\ref\OOP-Personaje.dll
